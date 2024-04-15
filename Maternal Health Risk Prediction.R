@@ -1,4 +1,3 @@
-## FINAL PROJECT ####
 ## TOPIC - MATERNAL HEALTH RISK PREDICTION ####
 
 #This project is aimed to help health care providers in rural Bangladesh by providing
